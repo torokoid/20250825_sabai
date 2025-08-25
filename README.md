@@ -194,7 +194,7 @@ p.note { display: none; }
 
 <br><br>
 
-<h2><span class="yellow">営業時間、昼１２:００~深夜２４:００</span></h2>
+<h2><span class="yellow">営業時間、昼12:00~深夜24:00</span></h2>
 <h2><span class="yellow">マッサージ価格一覧
     <br>タイ古式マッサージ
     <br>　　３０分　　２５００円
