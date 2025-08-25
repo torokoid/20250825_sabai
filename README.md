@@ -181,7 +181,7 @@ p.note { display: none; }
 <a href="20250825_110.JPG" target="_blank"><img src="20250825_110.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <br><br>
-<h2><span class="yellow">お店の場所はこちら、地図のクリックでGoogleMapsが立ち上がります↓</span></h2>
+<h2><span class="yellow">お店の場所はこちら<br>左上の「地図の拡大表示」クリックでGoogleMapsが立ち上がります↓</span></h2>
 <div class="youtube-wrapper">
 <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d29413.638571569223!2d139.89458341069272!3d36.55918317314478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDMzJzA2LjkiTiAxMznCsDU0JzAzLjUiRQ!5e1!3m2!1sja!2sth!4v1756120678026!5m2!1sja!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
