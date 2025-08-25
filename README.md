@@ -148,7 +148,7 @@ p.note { display: none; }
 
 
 <!--QRコードの挿入例-->
-<p align="left"> <img src="QR_2025Aug25.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR_2025Aug25_sabai.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 
 
 <!--流れ文字の挿入例-->
