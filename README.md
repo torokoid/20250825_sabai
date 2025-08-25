@@ -180,6 +180,13 @@ p.note { display: none; }
 <a href="20250825_109.JPG" target="_blank"><img src="20250825_109.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250825_110.JPG" target="_blank"><img src="20250825_110.JPG" alt="サンプル画像" class="responsive-media"></a>
 
+<br><br>
+<h2><span class="yellow">お店の場所はこちら、地図のクリックでGoogleMapsが立ち上がります↓</span></h2>
+<div class="youtube-wrapper">
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d29413.638571569223!2d139.89458341069272!3d36.55918317314478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDMzJzA2LjkiTiAxMznCsDU0JzAzLjUiRQ!5e1!3m2!1sja!2sth!4v1756120678026!5m2!1sja!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
 <br><br><br><br><br><br><br><br><br>
 
     </div>
@@ -188,19 +195,10 @@ p.note { display: none; }
 
 
 <br><br><br>
-<h2><span class="yellow">以上、Netで見る甲子園決勝から、住宅街のお花たちまででした。<br>ここまでご覧いただきありがとうございました。</span></h2>
+<h2><span class="yellow">ご予約。お問い合わせ等は、080-2580-8189 までお願いします。</span></h2>
 
 <br><br><br><br><br>
-<h2><span class="yellow">
-<a href="https://torokoid.github.io/Mashiko_himawari_3/" target="_blank">クリックでメニューページに戻ります</a>
-</span></h2>
 
-
-<br><br><br>
-
-<!-- hitwebcounter Code START -->
-<a href="https://www.hitwebcounter.com" target="_blank">
-<p>あなたは <img src="https://hitwebcounter.com/counter/counter.php?page=21345151&style=0018&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" />番目の訪問者です<br>数値は8月1日以降に立ち上げたバンコクシリーズHPの累計です</p></a>   
 
 
 
@@ -227,7 +225,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2025/08/25 alis @Bangkok</p>
+<p>Copyright 2025/08/25 Utsunomiya, Japan</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
