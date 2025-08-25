@@ -180,7 +180,7 @@ p.note { display: none; }
 <a href="20250825_109.JPG" target="_blank"><img src="20250825_109.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250825_110.JPG" target="_blank"><img src="20250825_110.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">夜間帯のライトアップ</span></h2>
+<h2><span class="yellow">夜分帯のライトアップ</span></h2>
 <a href="20250825_111.JPG" target="_blank"><img src="20250825_111.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250825_112.JPG" target="_blank"><img src="20250825_112.JPG" alt="サンプル画像" class="responsive-media"></a>
 
