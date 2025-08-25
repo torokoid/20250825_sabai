@@ -180,6 +180,18 @@ p.note { display: none; }
 <a href="20250825_109.JPG" target="_blank"><img src="20250825_109.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250825_110.JPG" target="_blank"><img src="20250825_110.JPG" alt="サンプル画像" class="responsive-media"></a>
 
+<h2><span class="yellow">夜間帯のライトアップ</span></h2>
+<a href="20250825_101.JPG" target="_blank"><img src="20250825_101.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250825_102.JPG" target="_blank"><img src="20250825_102.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">タッピング・マッサージ</span></h2>
+<a href="20250825_103.JPG" target="_blank"><img src="20250825_103.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250825_104.JPG" target="_blank"><img src="20250825_104.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">マッサージの一般的な効果</span></h2>
+<a href="20250825_105.JPG" target="_blank"><img src="20250825_105.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250825_106.JPG" target="_blank"><img src="20250825_106.JPG" alt="サンプル画像" class="responsive-media"></a>
+
 <br><br>
 <h2><span class="yellow">マッサージ価格一覧
     <br>タイ古式マッサージ
