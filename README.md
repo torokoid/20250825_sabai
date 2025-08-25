@@ -152,7 +152,7 @@ p.note { display: none; }
 
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2025/08/27、タイ式マッサージ店「サバイ・サバイ」新規開店!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/08/27、タイ式マッサージ店「サバイ・サバイ」新装開店!!!</marquee></span></h1>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -162,7 +162,7 @@ p.note { display: none; }
 
 <div class="media-container">
  
-<h2><span class="yellow">2025年8月27日、タイ式マッサージ店「サバイ・サバイ」新規開店</span></h2>
+<h2><span class="yellow">2025年8月27日、タイ式マッサージ店「サバイ・サバイ」新装開店</span></h2>
 <a href="20250825_101.JPG" target="_blank"><img src="20250825_101.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250825_102.JPG" target="_blank"><img src="20250825_102.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250825_103.JPG" target="_blank"><img src="20250825_103.JPG" alt="サンプル画像" class="responsive-media"></a>
