@@ -148,7 +148,7 @@ p.note { display: none; }
 
 
 <!--QRコードの挿入例-->
-<p align="left"> <a href="https://linevoom.line.me/user/_dd93PBy7jYovpOv4wfXyw6UC0Z7flUcxg8CAx44?&utm_medium=osx&utm_source=desktop&utm_campaign=OA_Profile" target="_blank"><img src="QR_2025Aug25_sabai.jpg" alt="LINEリンク用QRコード" width="100">LINEリンク用QRコード</a></p>
+<p align="left"> <img src="QR_2025Aug25_sabai.jpg" alt="LINEリンク用QRコード" width="100">LINEリンク用QRコード</p>
 
 
 <!--流れ文字の挿入例-->
