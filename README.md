@@ -223,6 +223,9 @@ p.note { display: none; }
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11434.578654670633!2d139.89983026869427!3d36.55366641016513!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601f67ace62ba69b%3A0x8a22c3f62c657eab!2z44K_44Kk44Oe44OD44K144O844K444O744OB44Kn44Oz44Oe44Kk!5e0!3m2!1sja!2sth!4v1756174740589!5m2!1sja!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+<br><br>
+<h2><span class="yellow">駐車場は店舗南側のスペース</span></h2>
+<a href="20250825_001.png" target="_blank"><img src="20250825_001.png" alt="サンプル画像" class="responsive-media"></a>
 
 <br><br><br><br><br><br><br><br><br>
 
