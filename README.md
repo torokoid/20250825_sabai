@@ -220,7 +220,7 @@ p.note { display: none; }
 <br><br>
 <h2><span class="yellow">お店の場所はこちら<br>左上の「拡大地図を表示」クリックでGoogleMapsが立ち上がります↓</span></h2>
 <div class="youtube-wrapper">
-<iframe src="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d10681.0031552216!2d139.89600114427085!3d36.554957161343935!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDMzJzA2LjkiTiAxMznCsDU0JzAzLjUiRQ!5e0!3m2!1sja!2sth!4v1756121896530!5m2!1sja!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10594.958863011223!2d139.89404330573598!3d36.55514103542595!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601f6779806336bd%3A0x1473fc44d71678c!2z5pel5pys44CB44CSMzIxLTA5MzQg5qCD5pyo55yM5a6H6YO95a6u5biC5a6_6YO377yR5LiB55uu77yR77yZ4oiS77yT!5e0!3m2!1sja!2sth!4v1756174322934!5m2!1sja!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 
