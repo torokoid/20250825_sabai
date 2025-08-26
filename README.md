@@ -235,7 +235,7 @@ p.note { display: none; }
 
 
 <br><br><br>
-<h2><span class="yellow">ご予約・お問い合わせ等は、080-2580-8186 までお願いします。<br>最上段のLINEリンクQRコードからでも可能です。</span></h2>
+<h2><span class="yellow">ご予約・お問い合わせ等は、<br>　080-2580-8186 までお願いします。<br>最上段のLINEリンクQRコードからでも可能です。</span></h2>
 
 <br><br><br><br><br>
 
