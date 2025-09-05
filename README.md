@@ -127,7 +127,22 @@ p.note { display: none; }
   height: 100%;
   border: none;
 }
-    
+
+.image-container {
+  display: flex; /* 子要素を横並びにする */
+  justify-content: space-between; /* 子要素間にスペースを設ける */
+  align-items: center; /* 子要素を垂直方向に中央揃えにする */
+}
+
+.image-container a {
+  width: 48%; /* 親要素の幅の約半分に設定 */
+}
+
+.responsive-media {
+  max-width: 100%; /* 親要素の幅に合わせて画像を縮小 */
+  height: auto; /* 縦横比を維持 */
+}
+
     
 </style>
 
@@ -189,8 +204,10 @@ p.note { display: none; }
 <a href="20250825_114.JPG" target="_blank"><img src="20250825_114.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">マッサージの一般的な効果</span></h2>
+<div class="image-grid">
 <a href="20250825_115.JPG" target="_blank"><img src="20250825_115.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250825_116.JPG" target="_blank"><img src="20250825_116.JPG" alt="サンプル画像" class="responsive-media"></a>
+</div>
 
 <br><br>
 
