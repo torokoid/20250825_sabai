@@ -217,12 +217,12 @@ p.note { display: none; }
 
 <div class="image-container">
 <a href="20250905_004.jpg" target="_blank"><img src="20250905_004.jpg" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250905_005.jpg" target="_blank"><img src="20250905_005.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250905_007.jpg" target="_blank"><img src="20250905_007.jpg" alt="サンプル画像" class="responsive-media"></a>
 </div>
 
 <div class="image-container">
 <a href="20250905_006.jpg" target="_blank"><img src="20250905_006.jpg" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250905_007.jpg" target="_blank"><img src="20250905_007.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250905_005.jpg" target="_blank"><img src="20250905_005.jpg" alt="サンプル画像" class="responsive-media"></a>
 </div>
 
 <div class="image-container">
