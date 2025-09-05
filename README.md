@@ -176,8 +176,12 @@ p.note { display: none; }
     
 
 <div class="media-container">
+
+<h2><span class="yellow">タッピング・ライン・マッサージ</span></h2>
+<a href="20250825_113.JPG" target="_blank"><img src="20250825_113.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250825_114.JPG" target="_blank"><img src="20250825_114.JPG" alt="サンプル画像" class="responsive-media"></a>
  
-<h2><span class="yellow">2025年8月27日、タイ式マッサージ店「サバイ・サバイ」新装開店</span></h2>
+<h2><span class="yellow">タイ式マッサージ店「サバイ・サバイ」店舗外観</span></h2>
 <a href="20250825_101.JPG" target="_blank"><img src="20250825_101.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250825_102.JPG" target="_blank"><img src="20250825_102.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250825_103.JPG" target="_blank"><img src="20250825_103.JPG" alt="サンプル画像" class="responsive-media"></a>
@@ -199,10 +203,6 @@ p.note { display: none; }
 <a href="20250825_111.JPG" target="_blank"><img src="20250825_111.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250825_112.JPG" target="_blank"><img src="20250825_112.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">タッピング・マッサージ</span></h2>
-<a href="20250825_113.JPG" target="_blank"><img src="20250825_113.JPG" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250825_114.JPG" target="_blank"><img src="20250825_114.JPG" alt="サンプル画像" class="responsive-media"></a>
-    
 <h2><span class="yellow">マッサージの一般的な効果</span></h2>
 <div class="image-container">
 <a href="20250825_115.JPG" target="_blank"><img src="20250825_115.JPG" alt="サンプル画像" class="responsive-media"></a>
