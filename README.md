@@ -209,6 +209,21 @@ p.note { display: none; }
 <a href="20250825_116.JPG" target="_blank"><img src="20250825_116.JPG" alt="サンプル画像" class="responsive-media"></a>
 </div>
 
+<h2><span class="yellow">店内の様子、画像クリックで拡大表示します↓</span></h2>
+<div class="image-container">
+<a href="20250905_002.jpg" target="_blank"><img src="20250905_002.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250905_003.jpg" target="_blank"><img src="20250905_003.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250905_004.jpg" target="_blank"><img src="20250905_004.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250905_005.jpg" target="_blank"><img src="20250905_005.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250905_006.jpg" target="_blank"><img src="20250905_006.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250905_007.jpg" target="_blank"><img src="20250905_007.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250905_008.jpg" target="_blank"><img src="20250905_008.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250905_009.jpg" target="_blank"><img src="20250905_009.jpg" alt="サンプル画像" class="responsive-media"></a>
+</div>
+
+<h2><span class="yellow">価格一覧表</span></h2>
+<a href="20250905_001.jpg" target="_blank"><img src="20250905_001.jpg" alt="サンプル画像" class="responsive-media"></a>
+
 <br><br>
 
 <h2><span class="yellow">営業時間、昼12:00~深夜24:00</span></h2>
