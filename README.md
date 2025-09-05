@@ -204,7 +204,7 @@ p.note { display: none; }
 <a href="20250825_114.JPG" target="_blank"><img src="20250825_114.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">マッサージの一般的な効果</span></h2>
-<div class="image-grid">
+<div class="image-container">
 <a href="20250825_115.JPG" target="_blank"><img src="20250825_115.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250825_116.JPG" target="_blank"><img src="20250825_116.JPG" alt="サンプル画像" class="responsive-media"></a>
 </div>
