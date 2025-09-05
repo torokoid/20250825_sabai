@@ -261,7 +261,7 @@ p.note { display: none; }
 <br><br>
 <h2><span class="yellow">お店の場所はこちら<br>左上の「拡大地図を表示」クリックでGoogleMapsが立ち上がります↓</span></h2>
 <div class="youtube-wrapper">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11434.578654670633!2d139.89983026869427!3d36.55366641016513!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601f67ace62ba69b%3A0x8a22c3f62c657eab!2z44K_44Kk44Oe44OD44K144O844K444O744OB44Kn44Oz44Oe44Kk!5e0!3m2!1sja!2sth!4v1756174740589!5m2!1sja!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d16282.633934532052!2d139.88699791282494!3d36.557444316776234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601f67007e00a7c7%3A0x44b442bbe4d26f4c!2zU2FiYWkgU2FiYWkgVGhhaSBNYXNzYWdlIOOCteODkOOCpOOAguOCteODkOOCpOOAguOCv-OCpOODnuODg-OCteODvOOCuA!5e0!3m2!1sja!2sth!4v1757051349220!5m2!1sja!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <br><br>
