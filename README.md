@@ -163,7 +163,7 @@ p.note { display: none; }
 
 
 <!--QRコードの挿入例-->
-<p> <img src="QR_121616.png" alt="HPアクセス用QRコード" width="100">←HPアクセス用QRコード, LINEリンク用QRコード→<img src="QR_2025Aug25_sabai.jpg" alt="LINEリンク用QRコード" width="100"></p>
+<p align="left"> <img src="QR_121616.png" alt="HPアクセス用QRコード" width="100">HPアクセス用QRコード</p>
 
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2025/08/27、タイ式マッサージ店「サバイ・サバイ」新装開店!!!</marquee></span></h1>
@@ -275,8 +275,11 @@ p.note { display: none; }
 
 
 <br><br><br>
-<h2><span class="yellow">ご予約・お問い合わせ等は、<br> 080-2580-8186 までお願いします。<br><br>最上段のLINEリンクQRコードからは定期的に最新情報をお届けします。</span></h2>
+<h2><span class="yellow">ご予約・お問い合わせ等は、<br> 080-2580-8186 までお願いします。</span></h2>
 
+<br><br>
+<p align="left"> <img src="QR_2025Aug25_sabai.jpg" alt="LINEリンク用QRコード" width="100">LINEリンク用QRコード</p>
+<h2><span class="yellow">上段のLINEリンク用QRコードからは定期的に最新情報をお届けします。</span></h2>
 <br><br><br><br><br>
 
 
