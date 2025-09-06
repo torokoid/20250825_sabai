@@ -163,7 +163,7 @@ p.note { display: none; }
 
 
 <!--QRコードの挿入例-->
-<p> <img src="QR_121616.png" alt="HPアクセス用QRコード" width="100">←HPアクセス用QRコード,LINEリンク用QRコード→<img src="QR_2025Aug25_sabai.jpg" alt="LINEリンク用QRコード" width="100"></p>
+<p> <img src="QR_121616.png" alt="HPアクセス用QRコード" width="100">←HPアクセス用QRコード, LINEリンク用QRコード→<img src="QR_2025Aug25_sabai.jpg" alt="LINEリンク用QRコード" width="100"></p>
 
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2025/08/27、タイ式マッサージ店「サバイ・サバイ」新装開店!!!</marquee></span></h1>
