@@ -1,4 +1,4 @@
-<h1>タイマッサージ、サバイ・サバイ</h1>
+<h1><span class="yellow">タイマッサージ、サバイ・サバイ</span></h1>
 
 <html lang="ja" data-loaded="false" data-scrolled="false" data-spmenu="closed">
 <head>
